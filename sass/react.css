@@ -94,7 +94,8 @@ h3 {
 section {
   padding-bottom: 5rem; }
   section.hero {
-    padding-bottom: 0; }
+    padding-bottom: 0;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f9/ClearFog-base.jpg); }
   @media only screen and (max-width: 600px) {
     section {
       padding-bottom: 3rem; } }
@@ -1296,7 +1297,8 @@ footer.page-footer {
 .ring-pink-skin .hero {
   position: relative;
   overflow: hidden;
-  background-color: #81d4fa; }
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f9/ClearFog-base.jpg);
+  background-size: cover; }
   .ring-pink-skin .hero h1 {
     position: relative;
     z-index: 10;
